@@ -49,5 +49,4 @@ Date: December 2019
 
 ## Honors
 
-- Bronze medal at the 40th _Iranian Mathematical Society_’s Mathematics Competition, 2016.
-
+- Bronze Medal in the 40th Math Competition of the Iranian Mathematical Society(IMS), 2016.
