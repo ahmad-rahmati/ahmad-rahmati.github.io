@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# ABOUT ME
 
-You can use the [editor on GitHub](https://github.com/ahmad-rahmati/ahmad-rahmati.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ahmad Rahmati
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Birth Date: 1992/12/25
 
-### Markdown
+Birth Place: tehran
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email: ahmad.rahmati@alum.sharif.edu
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Education
 
-- Bulleted
-- List
+- Bachelor of Mathematics from University of Qom in Iran (2016)
+- Master of Applied Mathematics from Sharif University of Technology(SUT) in Iran (2019)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Skills
 
-[Link](url) and ![Image](src)
-```
+- Python Programming
+- Matlab Programming
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Certificates
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahmad-rahmati/ahmad-rahmati.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**1. Python**
 
-### Support or Contact
+Institute: SUT
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Date: September 2019
+
+
+
+**2. Introduction To Matlab**
+
+Institute: SUT
+
+Date: November 2019
+
+
+
+**3. Git & GitHub Fundamentals**
+
+Institute: SUT
+
+Date: December 2019
+
+
+
+## Honors
+
+- Bronze medal at the 40th _Iranian Mathematical Society_’s Mathematics Competition, 2016.
+
