@@ -12,14 +12,14 @@ Email: ahmad.rahmati@alum.sharif.edu
 
 ## Education
 
-- Bachelor of Mathematics from University of Qom in Iran (2016)
-- Master of Applied Mathematics from Sharif University of Technology(SUT) in Iran (2019)
+- Bachelor of Mathematics from _University of Qom_ in Iran (2016)
+- Master of Applied Mathematics from _Sharif University of Technology_ (SUT) in Iran (2019)
 
 
 
 ## Honors
 
-- Bronze Medal in the 40th Math Competition of the Iranian Mathematical Society(IMS), 2016.
+- Bronze Medal in the 40th Math Competition of the _Iranian Mathematical Society_ (IMS), 2016.
 
 
 
