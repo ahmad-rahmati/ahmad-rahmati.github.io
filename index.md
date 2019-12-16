@@ -23,27 +23,13 @@ Email: ahmad.rahmati@alum.sharif.edu
 
 ## Certificates
 
-**1. Python**
-
-Institute: SUT
-
-Date: September 2019
 
 
-
-**2. Introduction To Matlab**
-
-Institute: SUT
-
-Date: November 2019
-
-
-
-**3. Git & GitHub Fundamentals**
-
-Institute: SUT
-
-Date: December 2019
+|       |Certificate                       |   Institute    |       Date        |
+|:------|:--------------------------------:|:--------------:|:-----------------:|
+|1      |Python                            |      SUT       | September 2019    |
+|2      |Introduction To Matlab            |      SUT       |  November 2019    |
+|3      |Git & GitHub Fundamentals         |      SUT       |  December 2019    |
 
 
 
