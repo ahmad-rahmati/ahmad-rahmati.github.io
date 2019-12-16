@@ -4,7 +4,7 @@ Ahmad Rahmati
 
 Birth Date: 1992/12/25
 
-Birth Place: tehran
+Birth Place: Tehran, Iran
 
 Email: ahmad.rahmati@alum.sharif.edu
 
