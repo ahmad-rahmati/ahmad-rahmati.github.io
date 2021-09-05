@@ -2,19 +2,19 @@
 
 Ahmad Rahmati
 
-Birth Date: 1992/12/25
+Birth Date: 1992
 
 Birth Place: Tehran, Iran
 
 Email: ahmad.rahmati@alum.sharif.edu
-
+Email: rahmati99@aut.ac.ir
 
 
 ## Education
 
 - Bachelor of Mathematics from _University of Qom_ in Iran (2016)
 - Master of Applied Mathematics from _Sharif University of Technology_ (SUT) in Iran (2019)
-
+- PhD Student in _Amirkabir University of Technology_ (AUT) in Iran (from 2020)
 
 
 ## Honors
